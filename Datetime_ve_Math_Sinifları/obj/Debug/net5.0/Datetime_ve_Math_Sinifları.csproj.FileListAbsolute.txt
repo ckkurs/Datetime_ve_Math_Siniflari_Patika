@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\bin\Debug\net5.0\Datetime_ve_Math_Sinifları.exe
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\bin\Debug\net5.0\Datetime_ve_Math_Sinifları.deps.json
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\bin\Debug\net5.0\Datetime_ve_Math_Sinifları.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\bin\Debug\net5.0\Datetime_ve_Math_Sinifları.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\bin\Debug\net5.0\Datetime_ve_Math_Sinifları.dll
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\bin\Debug\net5.0\Datetime_ve_Math_Sinifları.pdb
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\Datetime_ve_Math_Sinifları.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\Datetime_ve_Math_Sinifları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\Datetime_ve_Math_Sinifları.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\Datetime_ve_Math_Sinifları.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\Datetime_ve_Math_Sinifları.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\Datetime_ve_Math_Sinifları.dll
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\refint\Datetime_ve_Math_Sinifları.dll
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\Datetime_ve_Math_Sinifları.pdb
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\Datetime_ve_Math_Sinifları.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Datetime_ve_Math_Sinifları\obj\Debug\net5.0\ref\Datetime_ve_Math_Sinifları.dll
